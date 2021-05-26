@@ -61,7 +61,7 @@
 
 #### 5. Closing
 - 5.1 Deployment
-- 5.2 Perfo
+- 5.2 Perfomance Testing
 
 ## Schedule
 
