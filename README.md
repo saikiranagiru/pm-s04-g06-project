@@ -17,7 +17,7 @@
 
 ## Our Team
 
-   * Sai Kiran Agiru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sai Vivek Reddy Tadiparthi                       
+   * Sai Kiran Agiru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp; Sai Vivek Reddy Tadiparthi                       
 
    ![sai](pictures/Saikiran.jpg) &nbsp; ![vivek](pictures/Vivek.jpg)
   
