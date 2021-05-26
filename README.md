@@ -17,7 +17,7 @@
 
 ## Our Team
 
-   * Sai Kiran Agiru&nbspSai Vivek Reddy Tadiparthi                       
+   * Sai Kiran Agiru&nbsp;Sai Vivek Reddy Tadiparthi                       
 
    ![sai](Pictures/Saikiran.jpg)%20 ![vivek](Pictures/Vivek.jpg)
   
