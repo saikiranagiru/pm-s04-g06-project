@@ -32,8 +32,35 @@
 
 
 ## Scope
+### Work Breakdown Structure
 
+#### 1. Initiating 
+- 1.1 Analysis
+- 1.2 Feasability
+- 1.3 Designable
+- 1.4 Gathering Requirements
 
+#### 2. Planning
+- 2.1 System Design
+- 2.2 Blueprints
+- 2.3 Cost
+- 2.4 Materials
+- 2.5 Kick-off Meetings
+- 3. Executing
+- 3.1 Programming
+- 3.2 Database
+- 3.3 Network
+- 3.4 Unit Testing
+- 
+#### 4. Monitoring and Controlling
+- 4.1 Testing
+- 4.2 Upload Website to Server
+- 4.3 Train staff
+- 4.4 Bug Fixes
+- 
+#### 5. Closing
+- 5.1 Deployment
+- 5.2 Perfo
 
 ## Schedule
 
