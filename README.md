@@ -19,7 +19,7 @@
 
    * Sai Kiran Agiru&nbsp;Sai Vivek Reddy Tadiparthi                       
 
-   ![sai](Pictures/Saikiran.jpg)%20 ![vivek](Pictures/Vivek.jpg)
+   ![sai](Pictures/Saikiran.jpg)&nbsp; ![vivek](Pictures/Vivek.jpg)
   
 
    * Tejaswi Reddy Nallavolu 
