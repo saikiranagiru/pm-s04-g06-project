@@ -17,18 +17,14 @@
 
 ## Our Team
 
-   * Sai Kiran Agiru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nbsp; Sai Vivek Reddy Tadiparthi                       
+   Sai Kiran Agiru &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sai Vivek Reddy Tadiparthi                       
 
    ![sai](pictures/Saikiran.jpg) &nbsp; ![vivek](pictures/Vivek.jpg)
   
 
-   * Tejaswi Reddy Nallavolu 
+   Tejaswi Reddy Nallavolu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amulya Baddam
 
-   ![teju](pictures/Tejaswi.jpg) 
-
-   * Amulya Baddam
-
-   ![amulya](pictures/Amulya.jpg)
+   ![teju](pictures/Tejaswi.jpg) &nbsp; ![amulya](pictures/Amulya.jpg)
 
 
 ## Project Charter
