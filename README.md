@@ -19,19 +19,19 @@
 
    * Sai Kiran Agiru
 
-   ![sai](Pictures/Saikiran.jpg)
+   ![sai](pictures/Saikiran.jpg)
 
    * Sai Vivek Reddy Tadiparthi
 
-   ![vivek](Pictures/Vivek.jpg)
+   ![vivek](pictures/Vivek.jpg)
 
    * Tejaswi Reddy Nallavolu 
 
-   ![teju](Pictures/Tejaswi.JPG) 
+   ![teju](pictures/Tejaswi.JPG) 
 
    * Amulya Baddam
    
-   ![amulya](Pictures/Amulya.jpg)
+   ![amulya](pictures/Amulya.jpg)
 
 
 ## Project Charter
