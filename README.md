@@ -1,4 +1,4 @@
-# pm-s04-g06-project
+# WIXMIX-project
 
 | Table of Contents |
 |-------------------|
@@ -20,13 +20,11 @@
    * Sai Kiran Agiru%20Sai Vivek Reddy Tadiparthi                       
 
    ![sai](Pictures/Saikiran.jpg)%20 ![vivek](Pictures/Vivek.jpg)
-
-
   
 
    * Tejaswi Reddy Nallavolu 
 
-   ![teju](Pictures/Tejaswi.JPG) 
+   ![teju](pictures/Tejaswi.jpg) 
 
    * Amulya Baddam
 
