@@ -27,7 +27,7 @@
 
    * Tejaswi Reddy Nallavolu 
 
-   ![teju](pictures/Tejaswi.JPG) 
+   ![teju](pictures/Tejaswi.jpg) 
 
    * Amulya Baddam
    
