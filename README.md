@@ -17,20 +17,19 @@
 
 ## Our Team
 
-   * Sai Kiran Agiru
+   * Sai Kiran Agiru%20Sai Vivek Reddy Tadiparthi                       
 
-   ![sai](Pictures/Saikiran.jpg)
+   ![sai](Pictures/Saikiran.jpg)%20 ![vivek](Pictures/Vivek.jpg)
 
-   * Sai Vivek Reddy Tadiparthi
 
-   ![vivek](Pictures/Vivek.jpg)
+  
 
    * Tejaswi Reddy Nallavolu 
 
    ![teju](Pictures/Tejaswi.JPG) 
 
    * Amulya Baddam
-   
+
    ![amulya](Pictures/Amulya.jpg)
 
 
