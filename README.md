@@ -28,7 +28,7 @@
 
 
 ## Project Charter
-
+- [Click me to view our Project Charter](Charter/charter.md)
 
 
 ## Scope
