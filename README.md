@@ -17,9 +17,9 @@
 
 ## Our Team
 
-   * Sai Kiran Agiru&nbsp;Sai Vivek Reddy Tadiparthi                       
+   * Sai Kiran Agiru &nbsp; Sai Vivek Reddy Tadiparthi                       
 
-   ![sai](Pictures/Saikiran.jpg)&nbsp; ![vivek](Pictures/Vivek.jpg)
+   ![sai](Pictures/Saikiran.jpg) &nbsp; ![vivek](Pictures/Vivek.jpg)
   
 
    * Tejaswi Reddy Nallavolu 
