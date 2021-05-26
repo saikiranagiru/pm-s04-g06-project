@@ -66,7 +66,9 @@
 
 
 ## Schedule
-
+- ### Start date: 05/31/2021
+- ### End date: 09/06/2021
+- ### Duration: 14 weeks
 
 
 ## Budget
