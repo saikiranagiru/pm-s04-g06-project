@@ -18,9 +18,13 @@
 ## Our Team
 
    * Sai Kiran Agiru
+   ![sai](Pictures/Saikiran.jpg)
    * Sai Vivek Reddy Tadiparthi
+   ![vivek](Pictures/Vivek.jpg)
    * Tejaswi Reddy Nallavolu
+   ![teju](Pictures/Tejaswi.JPG)
    * Amulya Baddam
+   ![amulya](Pictures/Amulya.jpg)
 
 
 ## Project Charter
