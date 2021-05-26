@@ -51,13 +51,13 @@
 - 3.2 Database
 - 3.3 Network
 - 3.4 Unit Testing
-- 
+
 #### 4. Monitoring and Controlling
 - 4.1 Testing
 - 4.2 Upload Website to Server
 - 4.3 Train staff
 - 4.4 Bug Fixes
-- 
+
 #### 5. Closing
 - 5.1 Deployment
 - 5.2 Perfo
