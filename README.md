@@ -11,18 +11,18 @@
 
 
 ## Our Project
-   ### WIXMIX -Edit Cravings
-   One Stop Destination for all your food cravings.
+   ### WIXMIX -Yummy in your tummy.
+   Massive cusine with Indo-Mexican, Chinese, Italian. scrumptious hub to stop Cravings.
    
 
 ## Our Team
 
-   [Sai Kiran Agiru](https://github.com/saikiranagiru) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sai Vivek Reddy Tadiparthi](https://github.com/vivektadiparthi)                       
+   [Sai Kiran Agiru](https://github.com/saikiranagiru) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sai Vivek Reddy Tadiparthi](https://github.com/vivektadiparthi)                       
 
    ![sai](Pictures/Saikiran.jpg) &nbsp; ![vivek](Pictures/Vivek.jpg)
   
 
-   [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amulya Baddam](https://github.com/amulyabaddam555)
+   [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amulya Baddam](https://github.com/amulyabaddam555)
 
    ![teju](Pictures/Tejaswi.jpg) &nbsp; ![amulya](Pictures/Amulya.jpg)
 
