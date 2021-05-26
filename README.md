@@ -19,7 +19,7 @@
 
    * Sai Kiran Agiru &nbsp; Sai Vivek Reddy Tadiparthi                       
 
-   ![sai](Pictures/Saikiran.jpg) &nbsp; ![vivek](Pictures/Vivek.jpg)
+   ![sai](pictures/Saikiran.jpg) &nbsp; ![vivek](pictures/Vivek.jpg)
   
 
    * Tejaswi Reddy Nallavolu 
@@ -28,7 +28,7 @@
 
    * Amulya Baddam
 
-   ![amulya](Pictures/Amulya.jpg)
+   ![amulya](pictures/Amulya.jpg)
 
 
 ## Project Charter
