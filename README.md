@@ -1,4 +1,4 @@
-# pm-s04-g06-project
+# WIXMIX-project
 
 | Table of Contents |
 |-------------------|
