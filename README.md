@@ -12,7 +12,7 @@
 
 ## Our Project
    ### WIXMIX -Yummy in your tummy.
-   Massive cusine with Indo-Mexican, Chinese, Italian. scrumptious hub to stop Cravings.
+   Our website provides a convinent way to take a look at our menu and order food online. Check out our massive cusine with Indo-Mexican, Chinese and Italian to fulfill all your Cravings. We also offer a lot of combos and party packs online. Your just few clicks away from a flavorsome dish.
    
 
 ## Our Team - Melted Marshmallows!
@@ -30,7 +30,7 @@
 
 
 ## Project Charter
-- [Click me to view our Project Charter](Charter/charter.md)
+- [Click here to view our Project Charter](Charter/charter.md)
 
 
 ## Scope
@@ -74,4 +74,4 @@
 
 
 ## Budget
-- [Click me to view our Budget](Budget/Budget.xlsx)
+- [Click here to view our Budget](Budget/Budget.xlsx)
