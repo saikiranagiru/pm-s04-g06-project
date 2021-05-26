@@ -22,7 +22,7 @@
    ![sai](pictures/Saikiran.jpg) &nbsp; ![vivek](pictures/Vivek.jpg)
   
 
-   [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amulya Baddam](https://github.com/amulyabaddam555)
+   [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amulya Baddam](https://github.com/amulyabaddam555)
 
    ![teju](pictures/Tejaswi.jpg) &nbsp; ![amulya](pictures/Amulya.jpg)
 
