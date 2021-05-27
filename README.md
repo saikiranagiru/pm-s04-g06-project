@@ -77,5 +77,5 @@
 
 
 ## Budget
-The Budget for the project is $55000.
+The Budget for the project is $55000. <br/>
 ![budget](Budget/budget.jpg)
