@@ -1,4 +1,4 @@
-# WIXMIX-project
+# FROZEN BOOSTER
 
 | Table of Contents |
 |-------------------|
@@ -11,7 +11,7 @@
 
 
 ## Our Project
-   ### WIXMIX -Yummy in your tummy.
+   ### FROZEN BOOSTER -Yummy in your tummy!
    Explore all our blends in flavorsome real ice cream with rich jimmies and meringue. Our website provides a convinent way to take a look at our menu and order online. We also offer a lot of combos and party packs online. Enjoy your day purposefully with every swig!!
    
 
