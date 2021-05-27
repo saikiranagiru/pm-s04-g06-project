@@ -14,6 +14,8 @@
    ### FROZEN BOOSTER -Yummy in your tummy!
    Explore all our blends in flavorsome real ice cream with rich jimmies and meringue. Our website provides a convinent way to take a look at our menu and order online. We also offer a lot of combos and party packs online. Enjoy your day purposefully with every swig!!
    
+ - [Click here to view our Menu](Menu/menu.md)
+   
 
 ## Our Team - Milkshake Masters!
 
@@ -71,7 +73,9 @@
 - ### Start date: 05/31/2021
 - ### End date: 09/06/2021
 - ### Duration: 14 weeks
+  ![schedule](Schedule/scheduling1.jpg) ![schedule](Schedule/scheduling2.jpg)
 
 
 ## Budget
-- [Click here to view our Budget](Budget/Budget.xlsx)
+The Budget for the project is $55000.
+![budget](Budget/budget.jpg)
