@@ -17,7 +17,7 @@
 
 ## Our Team - Milkshake Masters!
 
-### Marshmallows!
+### Milkshake Masters!
 
    [Sai Kiran Agiru](https://github.com/saikiranagiru) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sai Vivek Reddy Tadiparthi](https://github.com/vivektadiparthi)                       
 
