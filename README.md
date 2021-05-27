@@ -67,15 +67,20 @@
 - 5.1 Deployment
 - 5.2 Perfomance Testing
 
-
+- [Click here to view our Wbs file](Scope/wbs.mpp)
 
 ## Schedule
 - ### Start date: 05/31/2021
 - ### End date: 09/06/2021
 - ### Duration: 14 weeks
   ![schedule](Schedule/scheduling1.jpg) ![schedule](Schedule/scheduling2.jpg)
+  
+- [Click here to view our Wbs file](Schedule/scheduling.mpp)
 
 
 ## Budget
 The Budget for the project is $55000. <br/>
 ![budget](Budget/budget.jpg)
+
+- [Click here to view our Budget file](Budget/Budget.xlsx)
+
