@@ -67,13 +67,16 @@
 - 5.1 Deployment
 - 5.2 Perfomance Testing
 
+
+  <img src="milestonereport.jpg" /> <br/>
+
 - [Click here to view our Wbs file](Scope/wbs.mpp)
 
 ## Schedule
 - ### Start date: 05/31/2021
 - ### End date: 09/06/2021
 - ### Duration: 14 weeks
-  ![schedule](Schedule/scheduling1.jpg) ![schedule](Schedule/scheduling2.jpg)
+  ![schedule](Schedule/schedule1.jpg) ![schedule](Schedule/schedule2.jpg)
   
 - [Click here to view our Wbs file](Schedule/scheduling.mpp)
 
@@ -83,4 +86,15 @@ The Budget for the project is $55000. <br/>
 ![budget](Budget/budget.jpg)
 
 - [Click here to view our Budget file](Budget/Budget.xlsx)
+
+## Pivot Tables
+
+
+  <img src="Resourcestats.JPG" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+
+  <img src="Resource.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  
+  <img src="Resourcestatus.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+
+  
 
