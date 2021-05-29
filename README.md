@@ -68,7 +68,7 @@
 - 5.2 Perfomance Testing
 
 
-  <img src="milestonereport.jpg" /> <br/>
+  <img src="Pivot Tables/milestonereport.jpg" /> <br/>
 
 - [Click here to view our Wbs file](Scope/wbs.mpp)
 
@@ -90,11 +90,11 @@ The Budget for the project is $55000. <br/>
 ## Pivot Tables
 
 
-  <img src="(Pivot Tables/Resourcestats.JPG)" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  <img src="Pivot Tables/Resourcestats.JPG" alt="drawing" width="500" style="border-radius:100%" /> <br/>
 
-  <img src="Resource.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  <img src="Pivot Tables/Resource.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
   
-  <img src="Resourcestatus.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  <img src="Pivot Tables/Resourcestatus.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
 
   
 
