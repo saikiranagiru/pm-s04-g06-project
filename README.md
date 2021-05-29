@@ -76,7 +76,7 @@
 - ### Start date: 05/31/2021
 - ### End date: 09/06/2021
 - ### Duration: 14 weeks
-  ![schedule](Schedule/schedule1.jpg) ![schedule](Schedule/schedule2.jpg)
+  ![schedule](Schedule/Schedule1.jpg) ![schedule](Schedule/Schedule2.jpg)
   
 - [Click here to view our Wbs file](Schedule/scheduling.mpp)
 
@@ -90,7 +90,7 @@ The Budget for the project is $55000. <br/>
 ## Pivot Tables
 
 
-  <img src="Resourcestats.JPG" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  <img src="(Pivot Tables/Resourcestats.JPG)" alt="drawing" width="500" style="border-radius:100%" /> <br/>
 
   <img src="Resource.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
   
