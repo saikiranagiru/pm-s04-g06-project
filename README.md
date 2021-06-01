@@ -31,7 +31,7 @@
    ![teju](pictures/Tejaswi.jpg) &nbsp; ![amulya](pictures/Amulya.jpg)
 
 Amulya Baddam is the fourth contributer of this project. The Github account is unavailable. Please find the commits from the link below.
-[Commits](https://github.com/saikiranagiru/pm-s04-g06-project/graphs/commit-activity)
+[Commits](https://github.com/saikiranagiru/pm-s04-g06-project/commits/main)
 
 ## Project Charter
 - [Click here to view our Project Charter](Charter/charter.md)
