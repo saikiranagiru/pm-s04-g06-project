@@ -97,6 +97,13 @@ The Budget for the project is $55000. <br/>
   <img src="Pivot Tables/Resource.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
   
   <img src="Pivot Tables/Resourcestatus.jpg" alt="drawing" width="500" style="border-radius:100%" /> <br/>
+  
+
+## Citations
+
+- [Overview](https://creately.com/diagram/example/hyq94r742/Online%20Pizza%20Ordering%20System)
+- [Procedure](https://creately.com/diagram/example/ixnj57fz1/Online%20shopping%20site)
+
 
   
 
