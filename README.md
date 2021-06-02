@@ -80,7 +80,7 @@ Amulya Baddam is the fourth contributer of this project. The Github account is u
 - ### Duration: 14 weeks
   ![schedule](Schedule/Schedule1.jpg) ![schedule](Schedule/Schedule2.jpg)
   
-- [Click here to view our Wbs file](Schedule/scheduling.mpp)
+- [Click here to view our Schedule file](Schedule/scheduling.mpp)
 
 
 ## Budget
